@@ -88,5 +88,5 @@ When a match is found, and the job is done, it's time for a break. There is no n
 A break can save a lot of execution time because it "ignores" the execution of all the rest of the code in the switch block.
 
 The default Keyword
-The default keyword specifies some code to run if there is no case match:
+The default keyword specifies some code to run if there is no case match: will get excuted!!
  */
