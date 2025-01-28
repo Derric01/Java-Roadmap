@@ -2,7 +2,7 @@
 float myFloatNum = 5.99f;    // Floating point number
 char myLetter = 'D';         // Character
 boolean myBool = true;       // Boolean
-String myText = "Hello";     // String
+String myText = "Hello";     // String are group of char
 Data types are divided into two groups:
 
 Primitive data types - includes byte, short, int, long, float, double, boolean and char
