@@ -42,7 +42,7 @@ Here's a real-life example of type casting where we create a program to calculat
 We use type casting to make sure that the result is a floating-point value, rather than an integer:
 
 Example
-// Set the maximum possible score in the game to 500
+// the maximum possible score in the game to 500
 int maxScore = 500;
 
 // The actual score of the user
