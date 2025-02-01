@@ -7,6 +7,7 @@ public class While {
           //  System.out.println("********");
         //}
         do { 
+            System.out.println("The answer is:");
            System.out.println("odd looks");
         }while(i==8);
         
