@@ -4,7 +4,7 @@ public class While {
         Scanner obj = new Scanner(System.in);
         int i = obj.nextInt();
        // while(i<10){
-          //  System.out.println("********");
+          //  System.out.println("*****");
         //}
         do { 
             System.out.println("The answer is:");
