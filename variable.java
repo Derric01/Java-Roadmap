@@ -1,7 +1,7 @@
 /*Java Variables
 Variables are containers for storing data values.
 
-In Java, there are different types of variables, for example:
+In Java, there are different types of variables, for ex:
 
 String - stores text, such as "Hello". String values are surrounded by double quotes
 int - stores integers (whole numbers), without decimals, such as 123 or -123
