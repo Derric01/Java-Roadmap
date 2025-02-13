@@ -65,7 +65,7 @@ class Car {
 
 Stage 3: Advanced Java Concepts (2-3 weeks)
 
-Objective: Deep dive into more advanced Java features.
+Objective: Deep dive into more advanced Java features
 
     Arrays & Collections:
         Arrays: Declaration, initialization, multi-dimensional arrays
