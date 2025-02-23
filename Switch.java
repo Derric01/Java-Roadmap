@@ -1,5 +1,5 @@
 
- /*import java.util.*;
+ /*import java.util.scanner;
  public class Switch {
     public static void main(String[] args){
         System.out.println("Enter your option too know the reward");
