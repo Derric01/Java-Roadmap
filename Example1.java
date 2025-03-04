@@ -9,7 +9,7 @@ Run time polymorphism
 i. Compile-time polymorphism:
 Java doesn’t support operator overloading and hence compile-time polymorphism is not possible in java.
 
-But we can overload multiple functions with same name and different parameters or different type of parameters.
+But we can overload multiple functions with same name and different parameters or different type of parameters
 
 Example:
 
