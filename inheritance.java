@@ -1,4 +1,4 @@
-// Inheritance
+ Inheritance
 // Inheritance is the mechanism by which one class acquires the properties and features of another class. The class that inherits the properties is called as a sub-class (child class) while the class from which the property is inherited is called as the super-class (parent class).
 
 // A child class inherits properties of parent class with the help of extends keyword.
