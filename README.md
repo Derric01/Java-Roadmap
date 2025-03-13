@@ -154,4 +154,4 @@ Key Points to Keep in Mind:
 
     #Practice coding daily to improve problem-solving skills.
     Learn algorithms and data structures, which are essential for Java programming.
-    Work on small projects to solidify your understanding of concepts.
+    Work on small projects to solidify your understanding of concepts
