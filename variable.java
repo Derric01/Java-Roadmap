@@ -1,4 +1,4 @@
-/*Java Variables
+Java Variables
 Variables are containers for storing data values.
 
 In Java, there are different types of variables, for ex:
@@ -76,6 +76,6 @@ System.out.println("Area of the rectangle is: " + area);
 
 
 }
-}*/
+}
 
 
