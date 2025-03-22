@@ -1,5 +1,5 @@
 
- /*import java.util.scanner;
+ import java.util.scanner;
  public class Switch {
     public static void main(String[] args){
         System.out.println("Enter your option too know the reward");
@@ -24,7 +24,6 @@
         }
     }
 }
-/*
  
  Java Switch
 Java Switch Statements
@@ -89,4 +88,4 @@ A break can save a lot of execution time because it "ignores" the execution of a
 
 The default Keyword
 The default keyword specifies some code to run if there is no case match: will get excuted!!
- */
+ 
