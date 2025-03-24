@@ -9,7 +9,7 @@
 //         System.out.println("Mango is sweet!!");
 //     }
 // }
-/*interface fruits{
+interface fruits{
  public abstract void taste();
  public void eat();
 }
@@ -56,4 +56,4 @@ Supports multiple inheritance.
 
 Has abstract and non-abstract methods.
 
-Has default, static and abstract methods.*/
+Has default, static and abstract methods.
