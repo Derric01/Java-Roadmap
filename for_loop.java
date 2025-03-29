@@ -1,6 +1,6 @@
 public class for_loop {
-    /*
-     * ava For Loop
+    
+   //  java For Loop
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
 
 SyntaxGet your own Java Server
@@ -33,7 +33,7 @@ for (int i = 0; i < 5; i++) {
          for (type variableName : arrayName) {
            // code block to be executed
           }
-         */
+         
         String[] cars = {"VOlvo","bmw","audi","benz"};
         for(String i : cars){
           System.out.println(i);
