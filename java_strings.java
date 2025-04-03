@@ -1,5 +1,5 @@
 //string
-/*java Strings
+java Strings
 Java Strings
 Strings are used for storing text.
 
@@ -111,4 +111,3 @@ Code	Result	Try it
 \t	Tab	
 \b	Backspace	
 \f	Form Feed
-*/
