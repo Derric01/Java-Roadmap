@@ -27,6 +27,5 @@
     //         System.out.println("Name: " + ex1.name);
     //         System.out.println("Age: " + ex2.age);
     //     }
-    // }
-//     Name: Rajesh
+    // }    Name: Rajesh
 Age: 20
