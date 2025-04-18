@@ -1,4 +1,4 @@
-/*package basic_java_concepts;
+package basic_java_concepts;
 
 public class hello_world {
     public static void main(String[] args) {
@@ -34,4 +34,4 @@ When you are finished with this tutorial, you will be able to write basic Java p
 
 It is not necessary to have any prior programming experience.
 
- */
+ 
